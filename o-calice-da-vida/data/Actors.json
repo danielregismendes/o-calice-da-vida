@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Eirwyn Frostbane normal","traits":[{"code":11,"dataId":3,"value":1},{"code":31,"dataId":3,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Eirwyn Frostbane","nickname":"A Dama das Geleiras","note":"","profile":"Eirwyn é uma feiticeira de gelo de ascendência meio elfa,\ncuja beleza gélida é apenas superada por sua formidável habilidade mágica. "},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":2,"maxLevel":99,"name":"Elly","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":5,"maxLevel":99,"name":"Zed","nickname":"Presas Brancas","note":"","profile":"Um membro de uma familia de assassinos,\nmeio homem e meio lobo."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":5,"maxLevel":99,"name":"Zirrael Matsu","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":4,"maxLevel":99,"name":"Lylthra Shadowarrow","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
